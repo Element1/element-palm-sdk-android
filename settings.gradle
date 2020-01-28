@@ -1,0 +1,2 @@
+include ':app', ':element-palm-core'
+rootProject.name='palm_sample'
